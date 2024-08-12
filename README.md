@@ -76,10 +76,6 @@ The database consists of the following tables:
 - **Order**: Stores order information (id, user_id, total_amount, status, etc.).
 - **Delivery**: Stores delivery information (id, order_id, delivery_executive_id, status, etc.).
 
-## Testing
-- To run the tests, execute the following command:
-   ```bash
-   mvn test
 
 ## Known Issues
 - Currently, the project only supports MySQL as the database.
