@@ -88,6 +88,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, please contact `objadhav28@gmail.com`.
+For questions or support, please contact [objadhav28@gmail.com](mailto:objadhav28@gmail.com).
    ```css
    This README.md file is comprehensive, covering everything from setup instructions to API documentation, testing, and future enhancements. It should give anyone interested in your project a clear understanding of how to get started and contribute.
